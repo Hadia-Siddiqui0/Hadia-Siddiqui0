@@ -1,18 +1,11 @@
-🚀 Hey there, I'm @Hadia-Siddiqui0 - your friendly neighborhood coder on a mission!
+👩‍💻 Hi, I’m Hadia Siddiqui (@Hadia-Siddiqui0) — an aspiring Python backend developer with a passion for building clean, efficient, and scalable solutions.
 
-💻 Diving deep into the fascinating realm of web development, one line of code at a time.
+🔧 Currently learning Flask, Django, REST APIs, and database management, while sharpening my problem-solving skills.
 
-🌱 Currently crafting my skills to build the digital wonders of tomorrow.
+🌱 Exploring the world of backend engineering, one project at a time.
 
-💞️ Eager to collaborate and connect with fellow tech enthusiasts - let's create something extraordinary!
+🤝 Open to collaborating on backend-focused projects, especially those involving web applications, APIs, and automation.
 
-📧 Slide into my inbox via Gmail, let's make magic happen.
+📧 Reach me at: [Your Gmail here]
 
-😄 Pronouns: She/Her
-
-⚡ Fun Fact: Transforming ideas into reality is my digital art, where innovation meets coding brilliance!
-
-<!---
-Hadia-Siddiqui0/Hadia-Siddiqui0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun fact: For me, backend code is like solving puzzles — every function is a missing piece that makes the system click!
