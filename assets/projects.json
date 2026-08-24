@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "repo": "fake-job-detection",
+      "description": "NLP fraud-detection pipeline on 18k+ job postings, deployed as a live API with a Power BI dashboard."
+    },
+    {
+      "repo": "customer_churn_pred",
+      "description": "Production-ready churn-prediction pipeline that lifted recall from a 47% baseline to 90%."
+    },
+    {
+      "repo": "hadia-ecommerce-sql-anaytics",
+      "description": "SQL analysis of ~96,000 customers that caught two silent data-integrity bugs before they reached a decision."
+    },
+    {
+      "repo": "RFG-customer-segmentation",
+      "description": "K-Means customer segmentation on 500k+ transactions, uncovering a 'Champions' segment worth 13x average spend."
+    },
+    {
+      "repo": "heart_disease_prediction",
+      "description": "84% accuracy (Random Forest) vs 78% (Decision Tree). Random Forest chosen for its smaller train/validation gap, not just the higher number. UCI Heart Disease dataset, 13 features after dropping high-missingness/non-predictive columns."
+    },
+    {
+      "repo": "house_price_prediction",
+      "description": "Built baseline regression model with feature engineering, outlier detection, and residual diagnostics. Identified key price drivers through coefficient analysis."
+    }
+  ]
+}

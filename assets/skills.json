@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "SQL", "value": 85 },
+    { "label": "Python", "value": 80 },
+    { "label": "Machine Learning", "value": 78 },
+    { "label": "NLP", "value": 62 },
+    { "label": "Docker / Deployment", "value": 58 },
+    { "label": "FastAPI", "value": 60 },
+    { "label": "Power BI", "value": 55 },
+    { "label": "Statistics", "value": 70 }
+  ]
+}
