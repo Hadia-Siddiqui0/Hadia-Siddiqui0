@@ -29,9 +29,9 @@ stack        : Python, SQL, scikit-learn, FastAPI, Docker
 currently    : building an AI business-intelligence platform for textile & fashion manufacturers
 ```
 
-- 🔭 Currently building **[Textile/Fashion AI BI Platform](#)** — early stage, more soon
+- 🔭 Currently building **[Textile/Fashion AI BI Platform](#)** early stage, more soon
 - 📊 Best result so far: lifted churn-model recall from a 47% baseline to **90%**
-- 🧠 Also work in NLP — fraud detection on 18k+ job postings, deployed as a live API
+- 🧠 Also work in NLP fraud detection on 18k+ job postings, deployed as a live API
 - 📫 Portfolio: **[hadia-siddiqui.netlify.app](https://hadia-siddiqui.netlify.app)**
 
 <br>
