@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=560&lines=Hi,+I'm+Hadia;Data+Scientist+%26+ML+Engineer;Turning+Raw+Data+Into+Decisions" alt="typing banner">
 
-<a href="https://linkedin.com/in/hadia-siddiqui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/hadia-siddiqui-8255262b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:hadiasiddiqui122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://hadia-siddiqui.netlify.app"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
@@ -21,7 +21,7 @@
 ## `SELECT * FROM about_me;`
 
 ```sql
--- about_me
+about_me
 name         : Hadia Siddiqui
 role         : Data Scientist / ML Engineer
 based_in     : Karachi, Pakistan
@@ -29,10 +29,10 @@ stack        : Python, SQL, scikit-learn, FastAPI, Docker
 currently    : building an AI business-intelligence platform for textile & fashion manufacturers
 ```
 
-- 🔭 Currently building **[Textile/Fashion AI BI Platform](#)** early stage, more soon
-- 📊 Best result so far: lifted churn-model recall from a 47% baseline to **90%**
-- 🧠 Also work in NLP fraud detection on 18k+ job postings, deployed as a live API
-- 📫 Portfolio: **[hadia-siddiqui.netlify.app](https://hadia-siddiqui.netlify.app)**
+- 1. Currently building **[Textile/Fashion AI BI Platform](#)** early stage, more soon
+- 2. Best result so far: lifted churn-model recall from a 47% baseline to **90%**
+- 3. Also work in NLP fraud detection on 18k+ job postings, deployed as a live API
+- 4. Portfolio: **[hadia-siddiqui.netlify.app](https://hadia-siddiqui.netlify.app)**
 
 <br>
 
