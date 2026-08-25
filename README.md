@@ -39,7 +39,7 @@ currently    : building an AI business-intelligence platform for textile & fashi
 ## `~/toolbox`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,mysql,docker,git,github,vscode,html,css&perline=8">
+<img src="https://skillicons.dev/icons?i=py,pytorch,mysql,docker,git,github,vscode,html,css&perline=9">
 </div>
 
 <br>
